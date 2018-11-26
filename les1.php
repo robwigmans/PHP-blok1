@@ -1,5 +1,5 @@
 <?php
-// Techniek college Rotterdam
+// Techniek college Rotterdam 2018
 // Dit programma print naam
 
 // Initialisatie variabelen
