@@ -1,6 +1,7 @@
 <?php
 // Techniek college Rotterdam 2018
 // Dit programma print naam
+// Rob Wigmans
 
 // Initialisatie variabelen
 $veld1 = 10;
